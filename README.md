@@ -12,7 +12,7 @@ The model predicts employee income based on **age** and **experience**.
 - Evaluation metrics:
   - Sum of Squared Errors (SSE)
   - Mean Squared Error (MSE)
-  - Root Mean Squared Error (RMSE)
+  
 
 ## 📊 Results
 - The model successfully learned the relationship between age, experience, and income.  
